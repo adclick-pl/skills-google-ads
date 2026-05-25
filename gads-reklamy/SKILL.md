@@ -56,16 +56,15 @@ Czekaj na krótką odpowiedź. Jeśli „ok" — kontynuuj. Jeśli uwagi — uwz
 ### 2.4 Voice of Customer (z opinii naszej firmy)
 
 Sprawdź czy znajdziesz opinie o firmie:
-- Wyszukaj wizytówkę firmy w Google Maps (https://www.google.com/maps/)
 - na stronie firmy
-- wyszukaj w Google: {firma} + opinie
-Wyciągnąć słowa, zwroty i argumenty, którymi klienci chwalą firmę. Przeczytaj 10-20 opinii (lub wszystkie, jeśli mniej).
+- wyszukaj w Google: {firma} + opinie (używaj WebSearch)
+- Jeśli dostępny jest MCP Playwright (lub Chrome) — otwórz google.com/maps/search/{firma}, zaakceptuj zgodę cookies i przeczytaj opinie (webFetch na Maps nie zadziała — użyj przeglądarki). Rozwiń «Więcej opinii», by 10-20 opinii (lub wszystkie, jeśli mniej).
 
-Oceń jakie są najmocniejsze argumenty, których używają klienci i warto je przytoczyć w reklamie?
+Oceń jakie są najmocniejsze argumenty i zwroty, którymi klienci chwalą firmę i warto ich użyć w reklamie?
 
 ### 2.5 Persona (Core 4)
 
-Zrozum motywy zakupowe klientów:
+Stwórz 1-3 profile najważniejszych klientów:
 - **Bóle i frustracje**: Co go aktualnie najbardziej irytuje w jego sytuacji i pcha do kupna danej usługi / produktu?
 - **Głębokie pragnienie**: Jaki jest jego prawdziwy, głęboki, emocjonalny motyw zakupu?
 - **Wymarzony efekt (Dream Outcome)**: Jak wygląda jego idealny świat po skorzystaniu z oferty?
@@ -75,9 +74,8 @@ Oceń, jakie są najważniejsze kwestie, do których warto się odwołać w rekl
 
 ### 2.6 Branża
 
-1. Przeanalizuj dostępne badania i analizy marketingowe pod kontem tego: Co jest ważne dla klienta przy zakupie tego typu produktu / usługi?
-2. Odopowiedz sobie na pytanie - co się pod tym kryje? Jakie są ich głębokie powody zakupu?
-3. Co z tych głębokich powodów do zakupu pasuje do tej firmy?
+1. Przeanalizuj dostępne badania i analizy marketingowe pod kontem tego: jakie aspekty najlepiej podkreślić reklamie tego typu produktu / usługi. Co jest ważne dla klienta? Dlaczego klienci kupują?
+2. Jakie aspekty ważne dla klienta w tej branży najbardziej pasują do tej firmy?
 
 ## ETAP 3 — Strategia i kąty (BRAMKA AKCEPTACJI)
 
