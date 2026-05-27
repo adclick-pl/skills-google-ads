@@ -56,9 +56,9 @@ Czekaj na krótką odpowiedź. Jeśli „ok" — kontynuuj. Jeśli uwagi — uwz
 ### 2.4 Voice of Customer (z opinii naszej firmy)
 
 Sprawdź czy znajdziesz opinie o firmie:
-- na stronie firmy
+- Jeśli dostępny jest MCP Playwright (lub Chrome) —> Otwórz google.com/maps/search/{firma}, zaakceptuj zgodę cookies i przeczytaj opinie (webFetch na Maps nie zadziała — użyj przeglądarki). Rozwiń «Więcej opinii», by 10-20 opinii (lub wszystkie, jeśli mniej).
 - wyszukaj w Google: {firma} + opinie (używaj WebSearch)
-- Jeśli dostępny jest MCP Playwright (lub Chrome) — otwórz google.com/maps/search/{firma}, zaakceptuj zgodę cookies i przeczytaj opinie (webFetch na Maps nie zadziała — użyj przeglądarki). Rozwiń «Więcej opinii», by 10-20 opinii (lub wszystkie, jeśli mniej).
+- na stronie firmy
 
 Oceń jakie są najmocniejsze argumenty i zwroty, którymi klienci chwalą firmę i warto ich użyć w reklamie?
 
@@ -94,9 +94,11 @@ Nagłówki reklamowe:
 - Długość: max **30 znaków** (po polsku)
 
 Teksty reklamowe
-- 6 tekstów reklamowych łączących różne kąty reklamowe i inne agumenty
+- 8 tekstów reklamowych łączących różne kąty reklamowe i inne agumenty
 - Dany tekst reklamowy skupiony na 1 lub 2 argumentach + CTA
 Długość:  max **90 znaków** (po polsku)
+
+- Posortuj nagłówki i opisy "od najlepszego"
 
 ### Zasady tworzenia
 
@@ -105,15 +107,14 @@ Długość:  max **90 znaków** (po polsku)
 **Bądź tak specyficzny jak to tylko możliwe**
 
 **Standardowe konty reklamowe** — Sprawdź czy pokryłeś poniższe konty reklamowe, jeśli nie, to dopisz nagłówki z pasujących poniższych kategorii:
-1. Brand / nazwa firmy
-2. Główna korzyść (problem → rozwiązanie)
-3. USP / wyróżnik
-4. Cena / oferta / promocja
-5. Gwarancja / brak ryzyka
-6. Dowód społeczny (lata, klienci, opinie z liczbą)
-7. CTA (silne wezwanie)
-8. Pilność / dostępność
-9. Liczba / symbol / konkret (np. „24h", „od 99 zł", „bez prowizji")
+1. Główna korzyść (problem → rozwiązanie)
+2. USP / wyróżnik
+3. Cena / oferta / promocja
+4. Gwarancja / brak ryzyka
+5. Dowód społeczny (lata, klienci, opinie z liczbą)
+6. CTA (silne wezwanie)
+7. Pilność / dostępność
+8. Liczba / symbol / konkret (np. „24h", „od 99 zł", „bez prowizji")
 
 ### Walidacja przed wysłaniem
 
@@ -129,12 +130,12 @@ Jeśli któryś punkt nie przechodzi — popraw przed pokazaniem użytkownikowi.
 
 ### Zakończenie
 
-Zapytaj na końcu: **„Czy zapisać do pliku `.md` / wyeksportować do CSV pod Google Ads Editor?"**
-
-Po napisaniu reklam zapytaj czy potrzeba dopisać:
+Po napisaniu reklam zapytaj czy nagłówki się podowają czy spróbować z innym kontem reklamowym (którym?) czy jest ok i potrzeba dopisać:
 - Objaśnienia: **10 objaśnień (callouts)** — max **25 znaków**
 - Sitelinki: **4 sitelinki** (tekst max 25 znaków + 2 opisy max 35 znaków każdy)
-- Rozszerzenia informacji: **4 strukturalne fragmenty** (1 nagłówek typu „Usługi" + 4-10 wartości max 25 znaków)
+- Rozszerzenia informacji: **1-3 strukturalne fragmenty**
+    - 1 nagłówek z wybranych typów (wybierz pasujący do biznesu): Usługi, Typy, Modele, Udogodnienia, Marki, Style, Miejsca docelowe, Okolice, Polecane hotele, Programy, Ubezpieczenia, Kierunki studiów, Kursy
+    - 4-10 wartości max 25 znaków
 - Długie nagłówki:
     - 5x Wybrane i połączone najlepsze argumenty w zgrabną całość
     - Format: Produkt + Argument + CTA
