@@ -94,7 +94,7 @@ Nagłówki reklamowe:
 - Długość: max **30 znaków** (po polsku)
 
 Teksty reklamowe
-- 8 tekstów reklamowych łączących różne kąty reklamowe i inne agumenty
+- 8 tekstów reklamowych łączących różne kąty reklamowe i inne argumenty
 - Dany tekst reklamowy skupiony na 1 lub 2 argumentach + CTA
 Długość:  max **90 znaków** (po polsku)
 
@@ -106,7 +106,7 @@ Długość:  max **90 znaków** (po polsku)
 
 **Bądź tak specyficzny jak to tylko możliwe**
 
-**Standardowe konty reklamowe** — Sprawdź czy pokryłeś poniższe konty reklamowe, jeśli nie, to dopisz nagłówki z pasujących poniższych kategorii:
+**Standardowe kąty reklamowe** — Sprawdź czy pokryłeś poniższe kąty reklamowe, jeśli nie, to dopisz nagłówki z pasujących poniższych kategorii:
 1. Główna korzyść (problem → rozwiązanie)
 2. USP / wyróżnik
 3. Cena / oferta / promocja
@@ -130,7 +130,7 @@ Jeśli któryś punkt nie przechodzi — popraw przed pokazaniem użytkownikowi.
 
 ### Zakończenie
 
-Po napisaniu reklam zapytaj czy nagłówki się podowają czy spróbować z innym kontem reklamowym (którym?) czy jest ok i potrzeba dopisać:
+Po napisaniu reklam zapytaj czy nagłówki się podobają, czy spróbować z innym kątem reklamowym (którym?), czy jest ok i potrzeba dopisać:
 - Objaśnienia: **10 objaśnień (callouts)** — max **25 znaków**
 - Sitelinki: **4 sitelinki** (tekst max 25 znaków + 2 opisy max 35 znaków każdy)
 - Rozszerzenia informacji: **1-3 strukturalne fragmenty**
